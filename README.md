@@ -25,13 +25,13 @@ Part-3: Analysing forests in India to get to know possible ways to reduce pollut
 
 DATA SOURCE:
 
--- The three datasets are provided in the folder named Dataset of this repository.
+-- The three datasets are provided in the file named Dataset.zip.
 
--- This repository also contains the project report and PowerPoint presentation in a .zip file inside a folder named Other.
+-- This repository also contains the project report and PowerPoint presentation in a file named Other.zip.
 
--- The PowerBi dashboard file is inside a folder named Power Bi.
+-- The PowerBi dashboard file is Visualizaton Project.pbit.
 
--- Link for web sources is given in the .txt file in the folder named Dataset.
+-- Link for web sources is given in the last, references, section of the report.
 
 
 GUIDELINES:
