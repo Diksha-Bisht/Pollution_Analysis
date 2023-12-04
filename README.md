@@ -23,11 +23,16 @@ Part-2: Analysing pollution in cities across the globe to know the global situat
 Part-3: Analysing forests in India to get to know possible ways to reduce pollution by planting more trees. -- TreeDataset.csv
 
 
+DATA SOURCE:
+
 -- The three datasets are provided in the folder named Dataset of this repository.
 
 -- This repository also contains the project report and PowerPoint presentation in a .zip file inside a folder named Other.
 
--- The PowerBi dashboard file is inside a folder named Power Bi
+-- The PowerBi dashboard file is inside a folder named Power Bi.
+
+-- Link for web sources is given in the .txt file in the folder named Web Sources.
+
 
 GUIDELINES:
 
