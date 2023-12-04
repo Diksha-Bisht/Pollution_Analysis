@@ -31,7 +31,7 @@ DATA SOURCE:
 
 -- The PowerBi dashboard file is inside a folder named Power Bi.
 
--- Link for web sources is given in the .txt file in the folder named Web Sources.
+-- Link for web sources is given in the .txt file in the folder named Dataset.
 
 
 GUIDELINES:
